@@ -103,10 +103,7 @@ body {
     background-color: var(--cor-hover);
 }
 
-.apresentacao__links img {
-    width: 32px;
-    height: 32px;
-}
+
 
 .imagem-principal {
     width: 55%;
